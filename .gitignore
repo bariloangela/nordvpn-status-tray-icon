@@ -1,0 +1,7 @@
+*.pro.user
+
+/* Generated from qmake */
+Makefile
+*.o
+.qmake.stash
+nordvpn-system-tray
